@@ -83,7 +83,6 @@ export const DATA = {
       image: SafeHerImg,
       featured: true
     },
-
    {
     title: "Multi-Domain AI Support Triage Agent",
     type: "AI Support Triage System",
