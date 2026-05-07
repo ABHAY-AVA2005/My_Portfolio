@@ -3,6 +3,7 @@ import { Github, Linkedin, Mail } from 'lucide-react';
 
 import AlgoverseImg from './assets/Algoverse.png';
 import SafeHerImg from './assets/SafeHer.png';
+import TriageAgentImg from './assets/TriageAgent.png';
 
 export const DATA = {
   name: "AVA.",
@@ -82,6 +83,19 @@ export const DATA = {
       image: SafeHerImg,
       featured: true
     }
+
+   {
+    title: "Multi-Domain AI Support Triage Agent",
+    type: "AI Support Triage System",
+    tech: ["Python", "Gemini API", "FAISS", "Sentence-Transformers", "RAG"],
+    description: "AI-powered terminal-based support triage system using RAG + Gemini that classifies, retrieves, and safely responds or escalates support tickets across multiple domains.",
+    highlight: "Built for HackerRank Orchestrate Challenge | May 2026",
+    link: "https://github.com/ABHAY-AVA2005/Multi-Domain-AI-Support-Triage-Agent---HackerRank-Orchestrate-Challenge",
+    github: "https://github.com/ABHAY-AVA2005/Multi-Domain-AI-Support-Triage-Agent---HackerRank-Orchestrate-Challenge",
+    image: TriageAgentImg,
+    featured: true
+   }
+  
   ],
   skills: {
     languages: ["Java", "C++", "C"],
