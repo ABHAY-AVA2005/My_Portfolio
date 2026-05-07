@@ -82,7 +82,7 @@ export const DATA = {
       github: "https://github.com/ABHAY-AVA2005/SafeHer-EAS",
       image: SafeHerImg,
       featured: true
-    }
+    },
 
    {
     title: "Multi-Domain AI Support Triage Agent",
