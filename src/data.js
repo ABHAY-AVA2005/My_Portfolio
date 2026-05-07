@@ -61,7 +61,7 @@ export const DATA = {
       description: "Selected representing Telangana at the National Level Buildathon."
     }
   ],
-  projects: [
+    projects: [
     {
       title: "AlgoVerse",
       type: "Algorithm Visualizer",
@@ -70,9 +70,10 @@ export const DATA = {
       highlight: "Qualified for State Level Hackathon by OPEN AI",
       link: "https://ava-algo-verse-dsa-visualizing-tool.vercel.app/",
       github: "https://github.com/ABHAY-AVA2005/AVA-AlgoVerse-DSA-VisualizingTool",
-      image: AlgoverseImg, 
+      image: AlgoverseImg,
       featured: true
     },
+
     {
       title: "SafeHer",
       type: "Safety PWA",
@@ -83,18 +84,18 @@ export const DATA = {
       image: SafeHerImg,
       featured: true
     },
-   {
-    title: "Multi-Domain AI Support Triage Agent",
-    type: "AI Support Triage System",
-    tech: ["Python", "Gemini API", "FAISS", "Sentence-Transformers", "RAG"],
-    description: "AI-powered terminal-based support triage system using RAG + Gemini that classifies, retrieves, and safely responds or escalates support tickets across multiple domains.",
-    highlight: "Built for HackerRank Orchestrate Challenge | May 2026",
-    link: "https://github.com/ABHAY-AVA2005/Multi-Domain-AI-Support-Triage-Agent---HackerRank-Orchestrate-Challenge",
-    github: "https://github.com/ABHAY-AVA2005/Multi-Domain-AI-Support-Triage-Agent---HackerRank-Orchestrate-Challenge",
-    image: TriageAgentImg,
-    featured: true
-   }
-  
+
+    {
+      title: "Multi-Domain AI Support Triage Agent",
+      type: "AI Support Triage System",
+      tech: ["Python", "Gemini API", "FAISS", "Sentence-Transformers", "RAG"],
+      description: "AI-powered terminal-based support triage system using RAG + Gemini that classifies, retrieves, and safely responds or escalates support tickets across multiple domains.",
+      highlight: "Built for HackerRank Orchestrate Challenge | May 2026",
+      link: "https://github.com/ABHAY-AVA2005/Multi-Domain-AI-Support-Triage-Agent---HackerRank-Orchestrate-Challenge",
+      github: "https://github.com/ABHAY-AVA2005/Multi-Domain-AI-Support-Triage-Agent---HackerRank-Orchestrate-Challenge",
+      image: TriageAgentImg,
+      featured: true
+    }
   ],
   skills: {
     languages: ["Java", "C++", "C"],
