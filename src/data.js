@@ -10,7 +10,7 @@ export const DATA = {
   title: "Software Engineer",
   subTitle: "B.Tech CSE (Pursuing 3rd Year) | 87% PERCENTAGE",
   about: "Software Engineer with a passion for problem-solving and web development, aiming to build scalable, high-performance applications. Committed to continuous learning, clean code, and delivering reliable software solutions.",
-  resumeUrl: "https://drive.google.com/file/d/1LrtwEnwXZfW8Agtt4T1xY2s_mKlmihKH/view?usp=drive_link",
+  resumeUrl: "https://drive.google.com/file/d/1TysvT3mVN_oMiZ2B8zP3rdrzuP7BDra1/view?usp=drive_link",
   contacts: [
     { icon: <Github size={18} />, label: "GitHub", url: "https://github.com/ABHAY-AVA2005" },
     { icon: <Linkedin size={18} />, label: "LinkedIn", url: "https://www.linkedin.com/in/abhay-varshit-ava-9242a1286/" },
