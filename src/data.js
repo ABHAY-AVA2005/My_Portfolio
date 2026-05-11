@@ -1,5 +1,6 @@
 import { Github, Linkedin, Mail } from 'lucide-react';
 
+import FluxoraImg from './assets/Fluxora Home Page.png';
 import AlgoverseImg from './assets/Algoverse.png';
 import SafeHerImg from './assets/SafeHer.png';
 import TriageAgentImg from './assets/TriageAgent.png';
