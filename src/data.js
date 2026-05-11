@@ -61,6 +61,22 @@ export const DATA = {
     }
   ],
     projects: [
+
+      {
+        title: "Fluxora",
+        type: "AI Spend Audit Platform",
+        tech: [
+          "Next.js 15","TypeScript","Tailwind CSS","Framer Motion", "Prisma","Supabase","Zod","Google Gemini" ],
+        description:
+          "AI-powered SaaS spend auditing platform that detects overlapping subscriptions, pricing inefficiencies, and optimization opportunities across enterprise AI stacks.",
+        highlight:
+          "Engineered deterministic audit logic capable of identifying 15–40% redundant AI/SaaS spend",
+        link: "https://fluxora-credex-ai-spend-audit-tool.vercel.app/",
+        github: "https://github.com/ABHAY-AVA2005/CREDEX-AI-SPEND-AUDIT-",
+        image: FluxoraImg,
+        featured: true
+    },
+      
     {
       title: "AlgoVerse",
       type: "Algorithm Visualizer",
